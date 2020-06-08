@@ -16,7 +16,7 @@ ___
 ## 🚀 como usar
 ```bash
 #Clonar repositório
-$ git clone https://github.com/mr-souza/next-level-week--01.git
+$ git clone https://github.com/mr-souza/next-level-week-01.git
 
 #Acessar o diretório
 $ cd ecoleta
